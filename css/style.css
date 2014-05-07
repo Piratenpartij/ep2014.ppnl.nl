@@ -617,8 +617,8 @@ footer a.twitter {
 	background: url(../img/social-sprites.png) no-repeat;
 }
 
-footer .bof {
-	
+footer .piratenpartij {
+
 }
 
 footer .social {
@@ -646,16 +646,17 @@ footer a.facebook:hover {
 	background-position: -40px -35px;
 }
 
-footer a.bof {
+footer a.piratenpartij {
 	display: inline-block;
 	text-indent: -999em;
-	background: url(../img/bof_logo_rgb.svg) no-repeat;
+	background: url(../img/PPLogo.png) no-repeat;
 	height: 60px;
 	width: 220px;
 }
-.lt-ie9 footer a.bof {
+
+.lt-ie9 footer a.piratenpartij {
 	display: block;
-	background: url(../img/bof_logo_rgb.png) no-repeat;
+	background: url(../img/PPLogo-po-black.png) no-repeat;
 }
 
 footer .license {
@@ -668,21 +669,24 @@ footer .privacy {
 	width: 160px;
 }
 
-footer .largetosti {
+footer .bof {
 	width: 100px;
 }
 
-footer .largetosti a {
+footer .bof a {
 	display: inline-block;
-	background: url(../img/logo-largetosti.svg) no-repeat 0px 25px;
+	background: url(../img/bof.png) no-repeat;
 	height: 45px;
 	width: 100px;
+        text-indent: -999em;
 }
-.lt-ie9 footer .largetosti a {
-	background: url(../img/logo-largetosti.png) no-repeat 0px 25px;
+.lt-ie9 footer .bof a {
+	display: block;
+	background: url(../img/bof.png) no-repeat;
+
 }
 
-footer .largetosti a:hover {
+footer .bof a:hover {
 	background-position: -100px 25px;
 }
 	
