@@ -496,10 +496,10 @@ section dl {
 	margin: -20px 0 0 0;
 }
 .content blockquote {
- color: #222;
- background: #F2F2F2;
- font-style: italic;
- quotes: "â€œ" "â€";
+	color: #222;
+	background: #F2F2F2;
+	font-style: italic;
+	quotes: "â€œ" "â€";
 }
 .content blockquote:before { content: open-quote; }
 .content blockquote:after { content: close-quote; }
