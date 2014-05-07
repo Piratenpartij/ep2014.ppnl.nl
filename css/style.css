@@ -1,27 +1,27 @@
 @font-face {
   	font-family: DINWeb-Cond;
-  	src: url("DINWeb-Cond.eot");
-  	src: 	url('../js/DINWeb-Cond.eot?#iefix') format('embedded-opentype'),
-  			url("DINWeb-Cond.woff") format("woff");
+  	src: url("../font/DINWeb-Cond.eot");
+  	src: 	url('../font/DINWeb-Cond.eot?#iefix') format('embedded-opentype'),
+  			url("../font/DINWeb-Cond.woff") format("woff");
   	font-weight: normal;
     font-style: normal;
 }
 @font-face {
   	font-family: DINWeb-Cond;
-  	src: url("DINWeb-CondBold.eot");
-  	src: 	url('../js/DINWeb-CondBold?#iefix') format('embedded-opentype'),
-  			url("DINWeb-CondBold.woff") format("woff");
+  	src: url("../font/DINWeb-CondBold.eot");
+  	src: 	url('../font/DINWeb-CondBold.eot?#iefix') format('embedded-opentype'),
+  			url("../font/DINWeb-CondBold.woff") format("woff");
   	font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'CCIconsRegular';
-    src: url('cc-icons-webfont.eot');
-    src: url('cc-icons-webfont.eot?#iefix') format('embedded-opentype'),
-         url('cc-icons-webfont.woff') format('woff'),
-         url('cc-icons-webfont.ttf') format('truetype'),
-         url('cc-icons-webfont.svg#CCIconsRegular') format('svg');
+    src: url('../font/cc-icons-webfont.eot');
+    src: url('../font/cc-icons-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/cc-icons-webfont.woff') format('woff'),
+         url('../font/cc-icons-webfont.ttf') format('truetype'),
+         url('../font/cc-icons-webfont.svg#CCIconsRegular') format('svg');
     font-weight: normal;
     font-style: normal;
 
