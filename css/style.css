@@ -674,20 +674,20 @@ footer .bof {
 
 footer .bof a {
 	display: inline-block;
-	background: url(../img/bof.png) no-repeat;
+	background: url(../img/bof.jpg) no-repeat;
 	height: 45px;
 	width: 100px;
         text-indent: -999em;
 }
 .lt-ie9 footer .bof a {
 	display: block;
-	background: url(../img/bof.png) no-repeat;
+	background: url(../img/bof.jpg) no-repeat;
 
 }
 
-footer .bof a:hover {
+/*footer .bof a:hover {
 	background-position: -100px 25px;
-}
+}*/
 	
 .cc {
 	font-family: CCIconsRegular;
