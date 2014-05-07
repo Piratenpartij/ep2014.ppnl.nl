@@ -500,8 +500,8 @@ section dl {
 	background: #F2F2F2;
 	font-style: italic;
 }
-.content blockquote:before { content: open-quote; }
-.content blockquote:after { content: close-quote; }
+/*.content blockquote:before { content: open-quote; }
+.content blockquote:after { content: close-quote; }*/
 
 .content aside p, .content blockquote p {
 	margin: 0;
