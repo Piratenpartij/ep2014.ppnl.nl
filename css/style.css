@@ -499,7 +499,6 @@ section dl {
 	color: #222;
 	background: #F2F2F2;
 	font-style: italic;
-	quotes: "â€œ" "â€";
 }
 .content blockquote:before { content: open-quote; }
 .content blockquote:after { content: close-quote; }
