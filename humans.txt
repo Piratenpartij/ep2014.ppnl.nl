@@ -1,0 +1,19 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+   Patrick Godschalk -- Developer -- N/A
+   Lisa -- Coordinator -- @LuciousLisaa
+
+# THANKS
+
+   Bits of Freedom
+
+# TECHNOLOGY COLOPHON
+
+   HTML5, CSS3
+   jQuery, Modernizr
+   Debian
+   OpenSSL
+   Apache HTTPD
